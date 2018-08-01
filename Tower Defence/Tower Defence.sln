@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Defence", "Tower Defence.csproj", "{2F949EBC-26BA-3A90-5409-E1EDEBE3FDEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Defence.Plugins", "Tower Defence.Plugins.csproj", "{05597FD6-DCD2-3D75-1BD9-F8F12987C1D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Defence.Editor.Plugins", "Tower Defence.Editor.Plugins.csproj", "{99C2ACFC-8209-DE2E-0F66-5AE2414CC42C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F949EBC-26BA-3A90-5409-E1EDEBE3FDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F949EBC-26BA-3A90-5409-E1EDEBE3FDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F949EBC-26BA-3A90-5409-E1EDEBE3FDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F949EBC-26BA-3A90-5409-E1EDEBE3FDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05597FD6-DCD2-3D75-1BD9-F8F12987C1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05597FD6-DCD2-3D75-1BD9-F8F12987C1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05597FD6-DCD2-3D75-1BD9-F8F12987C1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05597FD6-DCD2-3D75-1BD9-F8F12987C1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C2ACFC-8209-DE2E-0F66-5AE2414CC42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C2ACFC-8209-DE2E-0F66-5AE2414CC42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C2ACFC-8209-DE2E-0F66-5AE2414CC42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C2ACFC-8209-DE2E-0F66-5AE2414CC42C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
